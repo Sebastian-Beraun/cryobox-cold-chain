@@ -4,7 +4,6 @@ Portable thermoelectric carrier designed to keep vaccines between **2 °C and 8 
 
 Course project for *Microcontroladores* (NRC 554), Universidad Peruana de Ciencias Aplicadas (UPC), Lima, Peru.
 
-![CryoBox prototype](images/prototype.jpg)
 
 ## Problem
 
